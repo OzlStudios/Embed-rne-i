@@ -1,2 +1,3 @@
-# Embed-rne-i
-CSD's Code Server
+CSD's Code Server;
+
+Komutu İzin Almadan Paylaşmayınız.
